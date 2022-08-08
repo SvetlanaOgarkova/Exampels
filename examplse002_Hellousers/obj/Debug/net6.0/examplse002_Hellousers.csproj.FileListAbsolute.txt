@@ -1,0 +1,15 @@
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\bin\Debug\net6.0\examplse002_Hellousers.exe
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\bin\Debug\net6.0\examplse002_Hellousers.deps.json
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\bin\Debug\net6.0\examplse002_Hellousers.runtimeconfig.json
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\bin\Debug\net6.0\examplse002_Hellousers.dll
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\bin\Debug\net6.0\examplse002_Hellousers.pdb
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\obj\Debug\net6.0\examplse002_Hellousers.csproj.AssemblyReference.cache
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\obj\Debug\net6.0\examplse002_Hellousers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\obj\Debug\net6.0\examplse002_Hellousers.AssemblyInfoInputs.cache
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\obj\Debug\net6.0\examplse002_Hellousers.AssemblyInfo.cs
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\obj\Debug\net6.0\examplse002_Hellousers.csproj.CoreCompileInputs.cache
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\obj\Debug\net6.0\examplse002_Hellousers.dll
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\obj\Debug\net6.0\refint\examplse002_Hellousers.dll
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\obj\Debug\net6.0\examplse002_Hellousers.pdb
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\obj\Debug\net6.0\examplse002_Hellousers.genruntimeconfig.cache
+C:\Users\Svetlana\Desktop\Examplse\examplse002_Hellousers\obj\Debug\net6.0\ref\examplse002_Hellousers.dll
